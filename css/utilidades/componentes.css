@@ -32,6 +32,26 @@
   background: var(--cor-9);
 }
 
+.botao.seta {
+  display: flex;
+  align-items: center;
+}
+
+.botao.seta::after {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 12px;
+  margin-left: 12px;
+  background: url("../../icons/optimizado/zeta.svg");
+  transition: transform .2s;
+}
+
+.botao.seta:hover::after{
+  transform: translateX(4px
+  );
+}
+
 @media (max-width: 600px) {
   .botao {
     padding: 12px 16px;
