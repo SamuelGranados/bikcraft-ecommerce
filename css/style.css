@@ -8,6 +8,7 @@
 /* utilidades */
 @import "../css/utilidades/componentes.css";
 @import "../css/utilidades/color.css";
+@import "../css/utilidades/formulario.css";
 
 /* home */
 @import "../css/home/introducao.css";
@@ -28,6 +29,10 @@
 @import "../css/seguros/seguros.css";
 @import "../css/seguros/vantagens.css";
 @import "../css/seguros/perguntas.css";
+
+/* contato */
+@import "../css/contato/contato.css";
+@import "../css/contato/loja.css";
 
 /* termos */
 @import "../css/termos/termos.css";
