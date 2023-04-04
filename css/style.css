@@ -34,5 +34,8 @@
 @import "../css/contato/contato.css";
 @import "../css/contato/lojas.css";
 
+/* orcamento */
+@import "../css/orcamento/orcamento.css";
+
 /* termos */
 @import "../css/termos/termos.css";
