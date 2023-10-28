@@ -1,8 +1,8 @@
 <h1>Bikcraft-ecommerce</h1>
 
 <h2>Sobre</h2>
-<p>Seja muito bem vindo ao projeto Bikcraft, este projeto foi desenvolvido na origmaid, focado na venta de bicicletas eletricas você pode entrar escolher sua bike favorita e que o valor esteja alinhado com o seu bolso, assim que escolher 
-pode preencher o formulário que a nossa equipe de atenção ao cliente entrara em contato com você o mais pronto possível.</p>
+<p>Seja muito bem vindo ao projeto Bikcraft, este projeto foi desenvolvido na origmaid, focado na venta de bicicletas eletricas. Cada Bikcraft é única e possui a sua identidade. As medidas serão exatas para o seu corpo e altura, garantindo maior conforto e ergonomia na sua pedalada. Você pode também personalizar completamente as suas cores.
+</p>
 
 
 
